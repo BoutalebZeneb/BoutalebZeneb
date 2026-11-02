@@ -1,0 +1,389 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1590" width="900" height="1590">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="30%" r="90%"><stop offset="0" stop-color="#14123a"/><stop offset="0.6" stop-color="#07061c"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <radialGradient id="shade" cx="30%" cy="28%" r="85%"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.65"/></radialGradient>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <radialGradient id="p0" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#f6c777"/><stop offset="1" stop-color="#8a4a12"/></radialGradient>
+<radialGradient id="p1" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#8be8d2"/><stop offset="1" stop-color="#1a6a86"/></radialGradient>
+<radialGradient id="p2" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#7fa9df"/></radialGradient>
+<radialGradient id="p3" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#7fd16a"/><stop offset="1" stop-color="#1b4f25"/></radialGradient>
+<radialGradient id="p4" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#c5cbe8"/><stop offset="1" stop-color="#363b66"/></radialGradient>
+<radialGradient id="p5" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#ff8a47"/><stop offset="1" stop-color="#5e0d08"/></radialGradient>
+<radialGradient id="p6" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#c58bff"/><stop offset="1" stop-color="#240845"/></radialGradient>
+
+</defs>
+<rect width="900" height="1590" fill="url(#bg)" rx="18"/>
+<circle cx="148.5" cy="1096.7" r="1.0" fill="#fff" opacity="0.66"><animate attributeName="opacity" values="0.66;0.1;0.66" dur="2.6s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="727.1" cy="814.8" r="1.8" fill="#fff" opacity="0.69"></circle>
+<circle cx="709.6" cy="22.5" r="1.8" fill="#fff" opacity="0.63"></circle>
+<circle cx="130.4" cy="1194.6" r="0.8" fill="#fff" opacity="0.80"></circle>
+<circle cx="393.2" cy="1582.6" r="1.3" fill="#fff" opacity="0.75"></circle>
+<circle cx="30.7" cy="523.0" r="1.3" fill="#fff" opacity="0.80"><animate attributeName="opacity" values="0.80;0.1;0.80" dur="3.9s" begin="3.8s" repeatCount="indefinite"/></circle>
+<circle cx="20.9" cy="1178.2" r="0.6" fill="#fff" opacity="0.43"></circle>
+<circle cx="835.1" cy="720.5" r="1.8" fill="#fff" opacity="0.82"></circle>
+<circle cx="361.2" cy="240.2" r="0.6" fill="#fff" opacity="0.66"></circle>
+<circle cx="738.1" cy="118.7" r="0.8" fill="#fff" opacity="0.49"></circle>
+<circle cx="871.9" cy="1421.4" r="1.8" fill="#fff" opacity="0.99"><animate attributeName="opacity" values="0.99;0.1;0.99" dur="2.2s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="503.0" cy="616.9" r="1.0" fill="#fff" opacity="0.95"></circle>
+<circle cx="798.8" cy="651.3" r="1.0" fill="#fff" opacity="0.97"></circle>
+<circle cx="451.3" cy="505.5" r="1.3" fill="#fff" opacity="0.60"></circle>
+<circle cx="24.2" cy="148.3" r="1.3" fill="#fff" opacity="0.35"></circle>
+<circle cx="63.1" cy="953.0" r="1.8" fill="#fff" opacity="0.49"><animate attributeName="opacity" values="0.49;0.1;0.49" dur="3.8s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="560.4" cy="287.3" r="0.8" fill="#fff" opacity="0.76"></circle>
+<circle cx="750.3" cy="528.5" r="1.8" fill="#fff" opacity="0.95"></circle>
+<circle cx="221.2" cy="268.2" r="0.8" fill="#fff" opacity="0.86"></circle>
+<circle cx="337.4" cy="1086.5" r="1.8" fill="#fff" opacity="0.93"></circle>
+<circle cx="862.5" cy="647.2" r="0.8" fill="#fff" opacity="0.97"><animate attributeName="opacity" values="0.97;0.1;0.97" dur="3.8s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="441.8" cy="597.1" r="0.8" fill="#fff" opacity="0.96"></circle>
+<circle cx="221.3" cy="893.3" r="1.3" fill="#fff" opacity="0.87"></circle>
+<circle cx="696.5" cy="768.2" r="1.0" fill="#fff" opacity="0.38"></circle>
+<circle cx="232.2" cy="460.9" r="1.3" fill="#fff" opacity="0.51"></circle>
+<circle cx="355.1" cy="1383.9" r="0.8" fill="#fff" opacity="0.99"><animate attributeName="opacity" values="0.99;0.1;0.99" dur="4.2s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="227.0" cy="1524.6" r="1.8" fill="#fff" opacity="0.94"></circle>
+<circle cx="431.2" cy="1515.0" r="1.0" fill="#fff" opacity="0.87"></circle>
+<circle cx="793.3" cy="956.2" r="1.3" fill="#fff" opacity="0.66"></circle>
+<circle cx="812.3" cy="758.2" r="0.8" fill="#fff" opacity="0.70"></circle>
+<circle cx="248.4" cy="1221.5" r="0.6" fill="#fff" opacity="0.60"><animate attributeName="opacity" values="0.60;0.1;0.60" dur="2.4s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="238.0" cy="518.6" r="0.8" fill="#fff" opacity="0.90"></circle>
+<circle cx="525.9" cy="408.9" r="1.3" fill="#fff" opacity="0.84"></circle>
+<circle cx="730.9" cy="220.2" r="0.8" fill="#fff" opacity="0.41"></circle>
+<circle cx="84.5" cy="40.3" r="1.3" fill="#fff" opacity="0.86"></circle>
+<circle cx="64.7" cy="189.3" r="1.0" fill="#fff" opacity="0.43"><animate attributeName="opacity" values="0.43;0.1;0.43" dur="3.6s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="444.5" cy="349.2" r="0.8" fill="#fff" opacity="0.47"></circle>
+<circle cx="771.7" cy="320.6" r="1.8" fill="#fff" opacity="0.84"></circle>
+<circle cx="543.5" cy="802.8" r="0.6" fill="#fff" opacity="0.86"></circle>
+<circle cx="7.0" cy="737.6" r="0.6" fill="#fff" opacity="0.61"></circle>
+<circle cx="510.2" cy="1358.6" r="0.8" fill="#fff" opacity="0.51"><animate attributeName="opacity" values="0.51;0.1;0.51" dur="4.1s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="37.7" cy="618.3" r="1.0" fill="#fff" opacity="0.82"></circle>
+<circle cx="891.4" cy="1300.0" r="1.8" fill="#fff" opacity="0.67"></circle>
+<circle cx="515.7" cy="867.2" r="0.6" fill="#fff" opacity="0.68"></circle>
+<circle cx="661.1" cy="1537.7" r="1.0" fill="#fff" opacity="0.54"></circle>
+<circle cx="562.3" cy="1204.9" r="0.8" fill="#fff" opacity="0.39"><animate attributeName="opacity" values="0.39;0.1;0.39" dur="4.4s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="319.7" cy="505.8" r="1.3" fill="#fff" opacity="0.42"></circle>
+<circle cx="68.5" cy="116.6" r="1.3" fill="#fff" opacity="0.68"></circle>
+<circle cx="852.3" cy="1081.0" r="1.3" fill="#fff" opacity="0.66"></circle>
+<circle cx="461.7" cy="1392.3" r="0.6" fill="#fff" opacity="0.50"></circle>
+<circle cx="43.9" cy="689.9" r="0.8" fill="#fff" opacity="0.53"><animate attributeName="opacity" values="0.53;0.1;0.53" dur="3.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="384.3" cy="1268.2" r="1.3" fill="#fff" opacity="0.60"></circle>
+<circle cx="438.1" cy="1004.6" r="0.6" fill="#fff" opacity="0.37"></circle>
+<circle cx="155.6" cy="593.1" r="1.8" fill="#fff" opacity="0.93"></circle>
+<circle cx="701.6" cy="996.6" r="1.8" fill="#fff" opacity="0.78"></circle>
+<circle cx="773.0" cy="1111.5" r="1.0" fill="#fff" opacity="0.51"><animate attributeName="opacity" values="0.51;0.1;0.51" dur="4.8s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="553.2" cy="1311.5" r="0.6" fill="#fff" opacity="0.46"></circle>
+<circle cx="181.8" cy="1392.3" r="0.8" fill="#fff" opacity="0.41"></circle>
+<circle cx="157.8" cy="830.6" r="1.8" fill="#fff" opacity="0.96"></circle>
+<circle cx="668.1" cy="735.1" r="0.6" fill="#fff" opacity="0.99"></circle>
+<circle cx="149.8" cy="688.9" r="1.0" fill="#fff" opacity="0.59"><animate attributeName="opacity" values="0.59;0.1;0.59" dur="3.7s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="73.8" cy="45.5" r="1.8" fill="#fff" opacity="0.52"></circle>
+<circle cx="760.8" cy="243.9" r="1.8" fill="#fff" opacity="0.48"></circle>
+<circle cx="538.2" cy="441.1" r="1.3" fill="#fff" opacity="0.45"></circle>
+<circle cx="353.4" cy="638.7" r="1.3" fill="#fff" opacity="0.75"></circle>
+<circle cx="252.6" cy="277.2" r="1.3" fill="#fff" opacity="0.75"><animate attributeName="opacity" values="0.75;0.1;0.75" dur="2.3s" begin="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="193.7" cy="557.5" r="1.0" fill="#fff" opacity="0.36"></circle>
+<circle cx="451.1" cy="62.4" r="1.8" fill="#fff" opacity="0.64"></circle>
+<circle cx="404.7" cy="1575.4" r="1.8" fill="#fff" opacity="0.45"></circle>
+<circle cx="875.6" cy="302.6" r="1.0" fill="#fff" opacity="0.93"></circle>
+<circle cx="333.0" cy="214.6" r="1.3" fill="#fff" opacity="0.69"><animate attributeName="opacity" values="0.69;0.1;0.69" dur="2.1s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="362.7" cy="877.5" r="0.8" fill="#fff" opacity="0.72"></circle>
+<circle cx="741.4" cy="929.5" r="1.3" fill="#fff" opacity="0.92"></circle>
+<circle cx="15.8" cy="925.5" r="0.6" fill="#fff" opacity="0.63"></circle>
+<circle cx="749.4" cy="1572.7" r="0.8" fill="#fff" opacity="0.45"></circle>
+<circle cx="447.6" cy="837.2" r="1.8" fill="#fff" opacity="0.75"><animate attributeName="opacity" values="0.75;0.1;0.75" dur="3.4s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="304.2" cy="428.9" r="1.0" fill="#fff" opacity="0.54"></circle>
+<circle cx="576.0" cy="14.7" r="0.6" fill="#fff" opacity="0.78"></circle>
+<circle cx="167.7" cy="156.1" r="0.8" fill="#fff" opacity="0.58"></circle>
+<circle cx="317.1" cy="257.7" r="1.8" fill="#fff" opacity="0.67"></circle>
+<circle cx="612.7" cy="1038.5" r="0.8" fill="#fff" opacity="0.37"><animate attributeName="opacity" values="0.37;0.1;0.37" dur="2.7s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="225.4" cy="316.4" r="0.8" fill="#fff" opacity="0.82"></circle>
+<circle cx="472.1" cy="124.5" r="0.8" fill="#fff" opacity="0.49"></circle>
+<circle cx="36.4" cy="560.1" r="1.8" fill="#fff" opacity="0.76"></circle>
+<circle cx="578.3" cy="33.5" r="1.0" fill="#fff" opacity="0.67"></circle>
+<circle cx="145.8" cy="1353.0" r="0.6" fill="#fff" opacity="0.94"><animate attributeName="opacity" values="0.94;0.1;0.94" dur="4.0s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="699.9" cy="1435.4" r="1.8" fill="#fff" opacity="0.74"></circle>
+<circle cx="100.6" cy="493.6" r="0.8" fill="#fff" opacity="0.96"></circle>
+<circle cx="843.1" cy="1262.3" r="0.6" fill="#fff" opacity="0.94"></circle>
+<circle cx="156.0" cy="421.6" r="0.6" fill="#fff" opacity="0.84"></circle>
+<circle cx="582.2" cy="256.7" r="1.8" fill="#fff" opacity="0.68"><animate attributeName="opacity" values="0.68;0.1;0.68" dur="3.2s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="463.2" cy="454.7" r="1.3" fill="#fff" opacity="0.83"></circle>
+<circle cx="794.5" cy="576.2" r="0.6" fill="#fff" opacity="0.51"></circle>
+<circle cx="539.4" cy="559.5" r="1.0" fill="#fff" opacity="0.72"></circle>
+<circle cx="894.7" cy="1449.6" r="1.8" fill="#fff" opacity="0.84"></circle>
+<circle cx="885.9" cy="1176.7" r="0.6" fill="#fff" opacity="0.49"><animate attributeName="opacity" values="0.49;0.1;0.49" dur="3.6s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="892.2" cy="470.8" r="0.8" fill="#fff" opacity="0.51"></circle>
+<circle cx="381.8" cy="1019.0" r="1.3" fill="#fff" opacity="0.84"></circle>
+<circle cx="585.7" cy="402.2" r="1.3" fill="#fff" opacity="0.89"></circle>
+<circle cx="200.0" cy="758.7" r="0.6" fill="#fff" opacity="0.70"></circle>
+<circle cx="412.9" cy="56.5" r="1.0" fill="#fff" opacity="0.73"><animate attributeName="opacity" values="0.73;0.1;0.73" dur="4.4s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="657.8" cy="1579.6" r="1.3" fill="#fff" opacity="0.44"></circle>
+<circle cx="29.5" cy="1236.3" r="1.8" fill="#fff" opacity="0.54"></circle>
+<circle cx="749.2" cy="728.0" r="1.3" fill="#fff" opacity="0.50"></circle>
+<circle cx="660.7" cy="1291.7" r="1.3" fill="#fff" opacity="0.79"></circle>
+<circle cx="24.4" cy="1457.1" r="0.8" fill="#fff" opacity="0.67"><animate attributeName="opacity" values="0.67;0.1;0.67" dur="3.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="565.6" cy="951.6" r="0.6" fill="#fff" opacity="0.91"></circle>
+<circle cx="676.2" cy="596.1" r="1.0" fill="#fff" opacity="0.83"></circle>
+<circle cx="412.9" cy="198.6" r="0.8" fill="#fff" opacity="0.74"></circle>
+<circle cx="299.9" cy="1349.4" r="1.0" fill="#fff" opacity="0.51"></circle>
+<circle cx="116.9" cy="1195.2" r="1.0" fill="#fff" opacity="0.42"><animate attributeName="opacity" values="0.42;0.1;0.42" dur="3.9s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="462.6" cy="212.9" r="1.3" fill="#fff" opacity="0.49"></circle>
+<circle cx="617.8" cy="532.8" r="1.8" fill="#fff" opacity="0.59"></circle>
+<circle cx="173.9" cy="224.2" r="0.6" fill="#fff" opacity="0.52"></circle>
+<circle cx="742.4" cy="96.1" r="1.8" fill="#fff" opacity="0.78"></circle>
+<circle cx="19.0" cy="1152.3" r="1.8" fill="#fff" opacity="0.81"><animate attributeName="opacity" values="0.81;0.1;0.81" dur="3.5s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="493.9" cy="687.7" r="0.6" fill="#fff" opacity="0.76"></circle>
+<circle cx="329.2" cy="550.7" r="1.3" fill="#fff" opacity="0.76"></circle>
+<circle cx="411.2" cy="816.9" r="0.8" fill="#fff" opacity="0.64"></circle>
+<circle cx="209.2" cy="1355.0" r="1.3" fill="#fff" opacity="0.90"></circle>
+<circle cx="697.2" cy="1434.5" r="0.6" fill="#fff" opacity="0.57"><animate attributeName="opacity" values="0.57;0.1;0.57" dur="2.5s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="244.0" cy="1100.9" r="1.0" fill="#fff" opacity="0.49"></circle>
+<circle cx="43.3" cy="296.8" r="0.8" fill="#fff" opacity="0.36"></circle>
+<circle cx="142.3" cy="243.4" r="1.8" fill="#fff" opacity="0.42"></circle>
+<circle cx="481.0" cy="183.8" r="1.3" fill="#fff" opacity="0.43"></circle>
+<circle cx="111.5" cy="1113.7" r="0.8" fill="#fff" opacity="0.70"><animate attributeName="opacity" values="0.70;0.1;0.70" dur="2.3s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="539.5" cy="153.0" r="0.8" fill="#fff" opacity="0.63"></circle>
+<circle cx="709.7" cy="1476.4" r="0.6" fill="#fff" opacity="0.61"></circle>
+<circle cx="863.6" cy="1282.3" r="1.0" fill="#fff" opacity="0.92"></circle>
+<circle cx="376.0" cy="917.5" r="0.6" fill="#fff" opacity="0.93"></circle>
+<circle cx="694.2" cy="921.7" r="0.8" fill="#fff" opacity="0.37"><animate attributeName="opacity" values="0.37;0.1;0.37" dur="3.9s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="231.2" cy="750.1" r="1.0" fill="#fff" opacity="0.69"></circle>
+<circle cx="147.6" cy="542.0" r="1.3" fill="#fff" opacity="0.78"></circle>
+<circle cx="350.4" cy="1273.9" r="0.6" fill="#fff" opacity="0.43"></circle>
+<circle cx="526.4" cy="773.9" r="0.8" fill="#fff" opacity="0.84"></circle>
+<circle cx="134.4" cy="490.3" r="0.6" fill="#fff" opacity="0.53"><animate attributeName="opacity" values="0.53;0.1;0.53" dur="4.0s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="44.2" cy="1185.7" r="1.3" fill="#fff" opacity="0.68"></circle>
+<circle cx="95.7" cy="1545.8" r="0.8" fill="#fff" opacity="0.71"></circle>
+<circle cx="327.4" cy="315.4" r="1.3" fill="#fff" opacity="0.76"></circle>
+<circle cx="547.4" cy="691.5" r="0.6" fill="#fff" opacity="0.63"></circle>
+<circle cx="180.2" cy="50.4" r="0.8" fill="#fff" opacity="0.46"><animate attributeName="opacity" values="0.46;0.1;0.46" dur="4.9s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="696.2" cy="1351.8" r="1.3" fill="#fff" opacity="0.51"></circle>
+<circle cx="319.2" cy="1345.0" r="0.8" fill="#fff" opacity="0.53"></circle>
+<circle cx="534.8" cy="1322.7" r="1.0" fill="#fff" opacity="0.66"></circle>
+<circle cx="295.7" cy="1417.4" r="0.8" fill="#fff" opacity="0.54"></circle>
+<circle cx="675.0" cy="1107.4" r="0.6" fill="#fff" opacity="0.92"><animate attributeName="opacity" values="0.92;0.1;0.92" dur="2.7s" begin="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="294.9" cy="603.9" r="0.8" fill="#fff" opacity="0.82"></circle>
+<circle cx="25.0" cy="918.8" r="1.0" fill="#fff" opacity="0.49"></circle>
+<circle cx="886.0" cy="1219.1" r="0.8" fill="#fff" opacity="0.86"></circle>
+<circle cx="784.9" cy="1420.8" r="1.3" fill="#fff" opacity="0.99"></circle>
+<circle cx="449.4" cy="1115.5" r="1.8" fill="#fff" opacity="0.49"><animate attributeName="opacity" values="0.49;0.1;0.49" dur="2.5s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="342.7" cy="1476.5" r="0.8" fill="#fff" opacity="0.69"></circle>
+<circle cx="43.6" cy="1133.9" r="0.6" fill="#fff" opacity="0.46"></circle>
+<circle cx="99.9" cy="752.7" r="0.6" fill="#fff" opacity="0.76"></circle>
+<circle cx="100.2" cy="811.5" r="1.0" fill="#fff" opacity="0.77"></circle>
+<circle cx="785.0" cy="463.2" r="1.3" fill="#fff" opacity="0.97"><animate attributeName="opacity" values="0.97;0.1;0.97" dur="3.7s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="5.0" cy="650.8" r="1.0" fill="#fff" opacity="0.65"></circle>
+<circle cx="816.8" cy="1401.4" r="1.0" fill="#fff" opacity="0.90"></circle>
+<circle cx="121.6" cy="548.6" r="1.0" fill="#fff" opacity="0.48"></circle>
+<circle cx="144.9" cy="145.7" r="0.8" fill="#fff" opacity="0.35"></circle>
+<circle cx="306.4" cy="265.4" r="1.0" fill="#fff" opacity="0.80"><animate attributeName="opacity" values="0.80;0.1;0.80" dur="3.5s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="26.2" cy="516.5" r="1.8" fill="#fff" opacity="0.50"></circle>
+<circle cx="115.4" cy="512.8" r="0.8" fill="#fff" opacity="0.74"></circle>
+<circle cx="178.7" cy="276.4" r="1.0" fill="#fff" opacity="0.62"></circle>
+<circle cx="293.7" cy="1156.1" r="1.3" fill="#fff" opacity="0.86"></circle>
+<circle cx="769.4" cy="1186.2" r="0.6" fill="#fff" opacity="0.51"><animate attributeName="opacity" values="0.51;0.1;0.51" dur="3.0s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="390.0" cy="1390.4" r="0.6" fill="#fff" opacity="0.75"></circle>
+<circle cx="809.8" cy="737.9" r="0.8" fill="#fff" opacity="0.47"></circle>
+<circle cx="554.3" cy="1560.9" r="1.3" fill="#fff" opacity="0.94"></circle>
+<circle cx="76.3" cy="1136.3" r="1.3" fill="#fff" opacity="0.94"></circle>
+<circle cx="839.6" cy="1299.3" r="0.6" fill="#fff" opacity="0.75"><animate attributeName="opacity" values="0.75;0.1;0.75" dur="2.0s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="889.1" cy="828.4" r="0.6" fill="#fff" opacity="0.76"></circle>
+<circle cx="56.4" cy="1511.9" r="1.3" fill="#fff" opacity="0.41"></circle>
+<circle cx="366.7" cy="1564.1" r="1.3" fill="#fff" opacity="0.86"></circle>
+<circle cx="439.7" cy="421.7" r="1.8" fill="#fff" opacity="0.54"></circle>
+<circle cx="687.3" cy="357.7" r="0.6" fill="#fff" opacity="0.95"><animate attributeName="opacity" values="0.95;0.1;0.95" dur="2.4s" begin="3.7s" repeatCount="indefinite"/></circle>
+<circle cx="588.4" cy="887.7" r="1.0" fill="#fff" opacity="0.61"></circle>
+<circle cx="670.2" cy="585.4" r="1.8" fill="#fff" opacity="0.38"></circle>
+<circle cx="71.0" cy="321.4" r="0.8" fill="#fff" opacity="0.65"></circle>
+<circle cx="425.4" cy="819.8" r="0.8" fill="#fff" opacity="0.78"></circle>
+<circle cx="425.9" cy="1226.5" r="1.8" fill="#fff" opacity="0.55"><animate attributeName="opacity" values="0.55;0.1;0.55" dur="3.8s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="480.9" cy="1196.5" r="1.0" fill="#fff" opacity="0.48"></circle>
+<circle cx="161.7" cy="859.9" r="0.8" fill="#fff" opacity="0.41"></circle>
+<circle cx="651.2" cy="421.9" r="1.3" fill="#fff" opacity="0.63"></circle>
+<circle cx="481.5" cy="395.2" r="1.0" fill="#fff" opacity="0.41"></circle>
+<circle cx="544.5" cy="1287.4" r="0.6" fill="#fff" opacity="0.90"><animate attributeName="opacity" values="0.90;0.1;0.90" dur="3.7s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="894.2" cy="270.7" r="0.6" fill="#fff" opacity="0.68"></circle>
+<circle cx="498.8" cy="1542.6" r="0.8" fill="#fff" opacity="0.77"></circle>
+<circle cx="628.7" cy="1584.5" r="1.3" fill="#fff" opacity="0.52"></circle>
+<circle cx="623.2" cy="685.7" r="0.6" fill="#fff" opacity="0.81"></circle>
+<circle cx="871.6" cy="664.4" r="1.0" fill="#fff" opacity="0.96"><animate attributeName="opacity" values="0.96;0.1;0.96" dur="3.9s" begin="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="442.5" cy="932.7" r="0.8" fill="#fff" opacity="0.39"></circle>
+<circle cx="326.1" cy="594.8" r="1.0" fill="#fff" opacity="0.69"></circle>
+<circle cx="462.2" cy="419.3" r="0.8" fill="#fff" opacity="0.97"></circle>
+<circle cx="210.8" cy="295.3" r="1.0" fill="#fff" opacity="0.78"></circle>
+<circle cx="816.1" cy="272.1" r="1.8" fill="#fff" opacity="0.46"><animate attributeName="opacity" values="0.46;0.1;0.46" dur="3.8s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="606.5" cy="134.3" r="0.6" fill="#fff" opacity="0.90"></circle>
+<circle cx="432.9" cy="1366.5" r="1.8" fill="#fff" opacity="0.47"></circle>
+<circle cx="864.3" cy="599.3" r="1.0" fill="#fff" opacity="0.65"></circle>
+<circle cx="37.7" cy="263.6" r="0.8" fill="#fff" opacity="0.96"></circle>
+<circle cx="342.0" cy="995.1" r="0.8" fill="#fff" opacity="0.61"><animate attributeName="opacity" values="0.61;0.1;0.61" dur="4.9s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="604.8" cy="325.3" r="1.8" fill="#fff" opacity="0.89"></circle>
+<circle cx="89.4" cy="1558.8" r="0.6" fill="#fff" opacity="0.42"></circle>
+<circle cx="343.1" cy="1038.1" r="1.8" fill="#fff" opacity="0.61"></circle>
+<circle cx="657.3" cy="434.2" r="1.3" fill="#fff" opacity="0.38"></circle>
+<circle cx="689.4" cy="1453.2" r="1.8" fill="#fff" opacity="0.51"><animate attributeName="opacity" values="0.51;0.1;0.51" dur="3.1s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="287.2" cy="161.3" r="1.3" fill="#fff" opacity="0.62"></circle>
+<circle cx="406.4" cy="761.6" r="1.0" fill="#fff" opacity="0.92"></circle>
+<circle cx="721.2" cy="654.1" r="0.6" fill="#fff" opacity="0.85"></circle>
+<circle cx="666.7" cy="913.4" r="0.8" fill="#fff" opacity="0.66"></circle>
+<circle cx="244.6" cy="1264.2" r="1.3" fill="#fff" opacity="0.50"><animate attributeName="opacity" values="0.50;0.1;0.50" dur="4.8s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="391.2" cy="1420.1" r="0.8" fill="#fff" opacity="0.55"></circle>
+<circle cx="757.0" cy="451.9" r="1.0" fill="#fff" opacity="0.79"></circle>
+<circle cx="23.5" cy="1002.7" r="1.0" fill="#fff" opacity="0.40"></circle>
+<circle cx="105.7" cy="791.8" r="1.3" fill="#fff" opacity="0.56"></circle>
+<circle cx="759.3" cy="673.2" r="1.3" fill="#fff" opacity="0.50"><animate attributeName="opacity" values="0.50;0.1;0.50" dur="2.8s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="125.6" cy="869.2" r="0.6" fill="#fff" opacity="0.48"></circle>
+<circle cx="565.9" cy="842.5" r="1.8" fill="#fff" opacity="0.61"></circle>
+<circle cx="95.6" cy="820.8" r="0.8" fill="#fff" opacity="0.41"></circle>
+<circle cx="556.1" cy="1505.7" r="1.3" fill="#fff" opacity="0.47"></circle>
+<circle cx="716.9" cy="363.2" r="0.8" fill="#fff" opacity="0.36"><animate attributeName="opacity" values="0.36;0.1;0.36" dur="3.9s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="300.5" cy="631.7" r="0.8" fill="#fff" opacity="0.72"></circle>
+<circle cx="834.6" cy="447.2" r="0.6" fill="#fff" opacity="0.89"></circle>
+<circle cx="824.3" cy="1394.8" r="0.6" fill="#fff" opacity="0.80"></circle>
+<circle cx="750.3" cy="388.6" r="1.3" fill="#fff" opacity="0.87"></circle>
+<circle cx="380.7" cy="98.0" r="1.3" fill="#fff" opacity="0.83"><animate attributeName="opacity" values="0.83;0.1;0.83" dur="2.8s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="805.1" cy="52.3" r="1.3" fill="#fff" opacity="0.71"></circle>
+<circle cx="530.3" cy="500.9" r="1.3" fill="#fff" opacity="0.81"></circle>
+<circle cx="819.1" cy="923.3" r="1.0" fill="#fff" opacity="0.88"></circle>
+<circle cx="617.8" cy="416.5" r="1.0" fill="#fff" opacity="0.55"></circle>
+<circle cx="647.4" cy="209.8" r="1.8" fill="#fff" opacity="0.93"><animate attributeName="opacity" values="0.93;0.1;0.93" dur="3.7s" begin="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="460.5" cy="257.0" r="1.8" fill="#fff" opacity="0.69"></circle>
+<circle cx="711.3" cy="1555.6" r="1.0" fill="#fff" opacity="0.63"></circle>
+<circle cx="574.4" cy="138.6" r="1.8" fill="#fff" opacity="0.58"></circle>
+<circle cx="426.9" cy="1246.5" r="1.0" fill="#fff" opacity="0.40"></circle>
+<circle cx="872.3" cy="1174.7" r="1.0" fill="#fff" opacity="0.51"><animate attributeName="opacity" values="0.51;0.1;0.51" dur="4.0s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="141.2" cy="758.5" r="1.3" fill="#fff" opacity="0.97"></circle>
+<circle cx="147.9" cy="843.2" r="1.3" fill="#fff" opacity="0.99"></circle>
+<circle cx="845.9" cy="114.1" r="0.8" fill="#fff" opacity="0.52"></circle>
+<circle cx="36.3" cy="1023.4" r="1.8" fill="#fff" opacity="0.50"></circle>
+<circle cx="829.6" cy="1009.4" r="0.8" fill="#fff" opacity="0.48"><animate attributeName="opacity" values="0.48;0.1;0.48" dur="3.1s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="45.8" cy="229.4" r="1.0" fill="#fff" opacity="0.53"></circle>
+<circle cx="604.2" cy="445.1" r="1.0" fill="#fff" opacity="0.60"></circle>
+<circle cx="186.5" cy="1302.9" r="0.8" fill="#fff" opacity="0.92"></circle>
+<circle cx="783.3" cy="1387.0" r="0.6" fill="#fff" opacity="0.92"></circle>
+<circle cx="240.0" cy="840.5" r="1.8" fill="#fff" opacity="0.73"><animate attributeName="opacity" values="0.73;0.1;0.73" dur="3.2s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="283.1" cy="246.5" r="0.6" fill="#fff" opacity="0.83"></circle>
+<circle cx="43.5" cy="58.8" r="1.3" fill="#fff" opacity="0.45"></circle>
+<circle cx="605.6" cy="720.8" r="1.8" fill="#fff" opacity="0.45"></circle>
+<circle cx="868.5" cy="693.8" r="0.8" fill="#fff" opacity="0.45"></circle>
+<circle cx="785.5" cy="822.7" r="0.6" fill="#fff" opacity="0.57"><animate attributeName="opacity" values="0.57;0.1;0.57" dur="2.4s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="453.4" cy="507.3" r="1.3" fill="#fff" opacity="0.96"></circle>
+<circle cx="255.9" cy="28.5" r="0.8" fill="#fff" opacity="0.55"></circle>
+<circle cx="740.4" cy="296.0" r="1.0" fill="#fff" opacity="0.57"></circle>
+<circle cx="654.9" cy="547.6" r="0.8" fill="#fff" opacity="0.99"></circle>
+<circle cx="774.1" cy="568.6" r="1.3" fill="#fff" opacity="0.49"><animate attributeName="opacity" values="0.49;0.1;0.49" dur="4.0s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="542.9" cy="387.9" r="1.8" fill="#fff" opacity="0.67"></circle>
+<circle cx="548.6" cy="598.9" r="0.6" fill="#fff" opacity="0.58"></circle>
+<circle cx="135.3" cy="708.5" r="1.8" fill="#fff" opacity="0.91"></circle>
+<circle cx="495.8" cy="1581.3" r="1.3" fill="#fff" opacity="0.60"></circle>
+<text x="450.0" y="52" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="34" font-weight="900" fill="#FFE81F" letter-spacing="8">THE GALACTIC ROADMAP</text>
+<text x="450.0" y="82" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="14" fill="#4bd5ee" letter-spacing="4">FROM THE PISCINE TO THE EDGE OF THE GALAXY</text>
+
+<g font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#d8def0">
+  <rect x="250" y="104" width="22" height="14" rx="7" fill="#3ddc84"/><text x="280" y="116">Conquered</text>
+  <rect x="385" y="104" width="22" height="14" rx="7" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/><text x="415" y="116">Upcoming mission</text>
+  <circle cx="577" cy="111" r="7" fill="none" stroke="#FFE81F" stroke-width="2" stroke-dasharray="3 3"/><text x="592" y="116">Current sector</text>
+</g>
+<path d="M 190 220 C 190 320.0, 710 320.0, 710 420 C 710 520.0, 190 520.0, 190 620 C 190 720.0, 710 720.0, 710 820 C 710 920.0, 190 920.0, 190 1020 C 190 1120.0, 710 1120.0, 710 1220 C 710 1320.0, 190 1320.0, 190 1420" fill="none" stroke="#FFE81F" stroke-opacity="0.15" stroke-width="10" stroke-linecap="round"/>
+<path d="M 190 220 C 190 320.0, 710 320.0, 710 420" fill="none" stroke="#3ddc84" stroke-width="4" stroke-linecap="round" filter="url(#glow)"/>
+<path d="M 190 220 C 190 320.0, 710 320.0, 710 420 C 710 520.0, 190 520.0, 190 620 C 190 720.0, 710 720.0, 710 820 C 710 920.0, 190 920.0, 190 1020 C 190 1120.0, 710 1120.0, 710 1220 C 710 1320.0, 190 1320.0, 190 1420" fill="none" stroke="#FFE81F" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="3 10" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="0" to="-26" dur="2s" repeatCount="indefinite"/></path>
+<circle cx="190" cy="220" r="70" fill="none" stroke="#3ddc84" stroke-width="3" filter="url(#glow)"/>
+<circle cx="190" cy="220" r="56" fill="#07061c"/>
+<ellipse cx="190" cy="220" rx="90" ry="14" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="3" transform="rotate(-20 190 220)"/>
+<circle cx="190" cy="220" r="56" fill="url(#p0)"/>
+<circle cx="190" cy="220" r="56" fill="url(#shade)"/>
+<circle cx="232" cy="178" r="15" fill="#3ddc84" stroke="#06210f" stroke-width="2"/>
+<path d="M 225 178 l 5 6 l 9 -11" fill="none" stroke="#06210f" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="180" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="12" font-weight="700" fill="#FFE81F" letter-spacing="4">THE PISCINE</text>
+<text x="306" y="212" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="30" font-weight="900" fill="#3ddc84" letter-spacing="3">TATOOINE</text>
+<text x="306" y="234" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#b9c2d8" font-style="italic">Trial of the Padawan</text>
+<rect x="306" y="248" width="122" height="26" rx="13" fill="#3ddc84"/>
+<text x="367" y="265" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="700" fill="#06210f">Shell Piscine</text>
+<rect x="436" y="248" width="93" height="26" rx="13" fill="#3ddc84"/>
+<text x="482" y="265" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="700" fill="#06210f">C Piscine</text>
+<circle cx="710" cy="420" r="70" fill="none" stroke="#3ddc84" stroke-width="3" filter="url(#glow)"/>
+<circle cx="710" cy="420" r="56" fill="#07061c"/>
+<circle cx="710" cy="420" r="56" fill="url(#p1)"/>
+<circle cx="710" cy="420" r="56" fill="url(#shade)"/>
+<circle cx="752" cy="378" r="15" fill="#3ddc84" stroke="#06210f" stroke-width="2"/>
+<path d="M 745 378 l 5 6 l 9 -11" fill="none" stroke="#06210f" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="36" y="380" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="12" font-weight="700" fill="#FFE81F" letter-spacing="4">MILESTONE 0</text>
+<text x="36" y="412" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="30" font-weight="900" fill="#3ddc84" letter-spacing="3">NABOO</text>
+<text x="36" y="434" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#b9c2d8" font-style="italic">The first real project</text>
+<rect x="36" y="448" width="63" height="26" rx="13" fill="#3ddc84"/>
+<text x="68" y="465" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" font-weight="700" fill="#06210f">Libft</text>
+<circle cx="190" cy="620" r="68" fill="none" stroke="#FFE81F" stroke-width="2.5" stroke-dasharray="6 6"><animateTransform attributeName="transform" type="rotate" from="0 190 620" to="360 190 620" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="190" cy="620" r="56" fill="#07061c"/>
+<circle cx="190" cy="620" r="56" fill="url(#p2)"/>
+<circle cx="190" cy="620" r="56" fill="url(#shade)"/>
+<text x="190" y="706" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="12" font-weight="700" fill="#FFE81F" letter-spacing="3">YOU ARE HERE</text>
+<text x="306" y="580" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="12" font-weight="700" fill="#FFE81F" letter-spacing="4">MILESTONE 1</text>
+<text x="306" y="612" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="30" font-weight="900" fill="#fff" letter-spacing="3">HOTH</text>
+<text x="306" y="634" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#b9c2d8" font-style="italic">Cold, hard fundamentals</text>
+<rect x="306" y="648" width="122" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="367" y="665" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">get_next_line</text>
+<rect x="436" y="648" width="93" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="482" y="665" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">push_swap</text>
+<rect x="537" y="648" width="93" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="583" y="665" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">ft_printf</text>
+<circle cx="710" cy="820" r="56" fill="#07061c"/>
+<circle cx="710" cy="820" r="56" fill="url(#p3)"/>
+<circle cx="710" cy="820" r="56" fill="url(#shade)"/>
+<circle cx="710" cy="820" r="56" fill="#07061c" fill-opacity="0.5"/>
+<text x="36" y="780" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="12" font-weight="700" fill="#FFE81F" letter-spacing="4">MILESTONE 2</text>
+<text x="36" y="812" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="30" font-weight="900" fill="#9aa3b8" letter-spacing="3">ENDOR</text>
+<text x="36" y="834" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#b9c2d8" font-style="italic">Servers, mazes and Python</text>
+<rect x="36" y="848" width="107" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="90" y="865" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Born2beroot</text>
+<rect x="151" y="848" width="100" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="201" y="865" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">A-Maze-ing</text>
+<rect x="259" y="848" width="174" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="346" y="865" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Python Modules 00-10</text>
+<rect x="441" y="848" width="115" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="499" y="865" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Exam Rank 02</text>
+<circle cx="190" cy="1020" r="56" fill="#07061c"/>
+<ellipse cx="190" cy="1020" rx="90" ry="14" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="3" transform="rotate(-20 190 1020)"/>
+<circle cx="190" cy="1020" r="56" fill="url(#p4)"/>
+<circle cx="190" cy="1020" r="56" fill="url(#shade)"/>
+<circle cx="190" cy="1020" r="56" fill="#07061c" fill-opacity="0.5"/>
+<text x="306" y="980" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="12" font-weight="700" fill="#FFE81F" letter-spacing="4">MILESTONE 3</text>
+<text x="306" y="1012" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="30" font-weight="900" fill="#9aa3b8" letter-spacing="3">CORUSCANT</text>
+<text x="306" y="1034" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#b9c2d8" font-style="italic">The city-planet of algorithms</text>
+<rect x="306" y="1048" width="122" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="367" y="1065" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Call Me Maybe</text>
+<rect x="436" y="1048" width="70" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="471" y="1065" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Fly-In</text>
+<rect x="515" y="1048" width="85" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="557" y="1065" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Codexion</text>
+<rect x="608" y="1048" width="115" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="665" y="1065" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Exam Rank 03</text>
+<circle cx="710" cy="1220" r="56" fill="#07061c"/>
+<circle cx="710" cy="1220" r="56" fill="url(#p5)"/>
+<circle cx="710" cy="1220" r="56" fill="url(#shade)"/>
+<circle cx="710" cy="1220" r="56" fill="#07061c" fill-opacity="0.5"/>
+<text x="36" y="1180" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="12" font-weight="700" fill="#FFE81F" letter-spacing="4">MILESTONE 4</text>
+<text x="36" y="1212" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="30" font-weight="900" fill="#9aa3b8" letter-spacing="3">MUSTAFAR</text>
+<text x="36" y="1234" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#b9c2d8" font-style="italic">Fire, networks and machines</text>
+<rect x="36" y="1248" width="107" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="90" y="1265" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">NetPractice</text>
+<rect x="151" y="1248" width="196" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="250" y="1265" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">RAG against the machine</text>
+<rect x="356" y="1248" width="70" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="391" y="1265" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Pacman</text>
+<rect x="434" y="1248" width="115" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="491" y="1265" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Exam Rank 04</text>
+<circle cx="190" cy="1420" r="56" fill="#07061c"/>
+<circle cx="190" cy="1420" r="56" fill="url(#p6)"/>
+<circle cx="190" cy="1420" r="56" fill="url(#shade)"/>
+<circle cx="190" cy="1420" r="56" fill="#07061c" fill-opacity="0.5"/>
+<text x="306" y="1380" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="12" font-weight="700" fill="#FFE81F" letter-spacing="4">MILESTONE 5</text>
+<text x="306" y="1412" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="30" font-weight="900" fill="#9aa3b8" letter-spacing="3">EXEGOL</text>
+<text x="306" y="1434" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#b9c2d8" font-style="italic">The final frontier</text>
+<rect x="306" y="1448" width="93" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="352" y="1465" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Inception</text>
+<rect x="407" y="1448" width="167" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="490" y="1465" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">The Answer Protocol</text>
+<rect x="581" y="1448" width="85" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="624" y="1465" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">treenity</text>
+<rect x="674" y="1448" width="115" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="732" y="1465" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Exam Rank 05</text>
+<rect x="306" y="1482" width="115" height="26" rx="13" fill="#0c1030" stroke="#4a5280" stroke-width="1.5"/>
+<text x="363" y="1499" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif" font-size="13" fill="#c5ccea">Exam Rank 06</text>
+</svg>
